@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 22-10-2026
+## Reference Number: 26002324
+## Name: SHARINIKA CB
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,34 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+FarmConnect is a digital marketplace that connects farmers directly with consumers and bulk buyers. It helps reduce unnecessary intermediaries, improve price transparency, and coordinate transportation.
+
+1. Farmers can list their crops, quantities, and prices.
+2. Consumers and bulk buyers can order produce directly.
+3. AI predicts demand and helps optimize delivery routes.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1. Frontend: HTML, CSS, JavaScript
+2. Backend: Python and Django
+3. Database: SQLite or PostgreSQL
+4. AI: Python for demand forecasting and route optimization
+5. Implementation: Develop a web application with farmer registration, product listings, ordering, and delivery coordination.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
-
+1. The platform can be developed using open-source technologies.
+2. Challenges include internet access, transportation, and farmer adoption.
+3. These challenges can be addressed through a mobile-friendly interface, local-language support, and delivery partnerships.
+   
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
-
+1. Improves earning opportunities for farmers.
+2. Helps consumers access agricultural products at transparent prices.
+3. Reduces unnecessary intermediaries and avoidable wastage.
+4. Connects farmers with retailers, restaurants, and bulk buyers.
+   
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. **Smart India Hackathon (SIH):** Official website – https://www.sih.gov.in/
+2. **Ministry of Consumer Affairs, Food & Public Distribution:** https://consumeraffairs.nic.in/
+3. **e-NAM (National Agriculture Market):** https://www.enam.gov.in/
+4. **Digital Agriculture:** Research on digital marketplaces, farmer-to-consumer platforms, and agricultural supply chains.
+5. **AI and Logistics:** Research on demand forecasting and route optimization for agricultural deliveries.
+
